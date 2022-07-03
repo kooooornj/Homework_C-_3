@@ -39,7 +39,7 @@ Console.WriteLine("Расстояние между двумя точками = "
 }
 Rasstoynie();
 */
-/*Zadacha 19 */
+/*Zadacha 19 
 void Kybs()
 {
     Console.WriteLine("Введите число");
@@ -55,3 +55,4 @@ void Kybs()
     }
 }
 Kybs();
+*/
